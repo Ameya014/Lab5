@@ -1,5 +1,5 @@
   body {
-	  background: url('stars.jpg') bottom;
+	  background: url('media/stars.jpg') bottom;
       color: white;
   }
 
@@ -20,7 +20,6 @@
 	display: block;
 	width: 100px;
 	height: 100px;
-	background: url('media/saturn.jpg') bottom;
 	color: white;
   }
   .Mercury:hover {
@@ -31,7 +30,6 @@
 	display: block;
 	width: 100px;
 	height: 100px;
-	background: url('media/mars.jpg') bottom;
 	color: white;
   }
 
@@ -39,7 +37,6 @@
 	display: block;
 	width: 100px;
 	height: 100px;
-	background: url('media/Neptune.jpg') bottom;
 	color: white;
   } 
 
@@ -47,7 +44,6 @@
 	display: block;
 	width: 100px;
 	height: 100px;
-	background: url('media/Uranus.jpg') bottom;
 	color:white;
   }
 
